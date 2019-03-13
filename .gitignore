@@ -1,0 +1,12 @@
+target/
+.project
+.settings/
+.classpath
+*.MF
+.idea
+*.iml
+/bin/
+.metadata
+.recommenders
+Servers
+RemoteSystemsTempFiles
