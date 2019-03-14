@@ -1,1 +1,21 @@
 ### Spring Boot 教學
+
+### 缘起
+>一直以來反覆不斷看著技術書籍、技術文章並且實作，發現自己雖然有成長，但是在理解上似乎沒有這麼的完全，而且也常常會漏掉一些重點。在這邊希望透過自己努力撰寫著技術文章的分享，來提升自己的知識和能力，也希望可以把這個習慣維持下去。
+
+### 開發環境
+- IDE：Eclipse
+- java 8 
+- spring boot: 2.1.3.RELEASE
+- 開發插件：Spring Tool Suite(3.9.7.RELEASE)
+
+### 教學
+>由於本人能力有限，所以都是簡單入門為主的教學，並且照著自己認為應該的學習優先順序來做分享，而在其中也可能穿插著一些工具或是套件上的使用教學。
+
+-  [第一章 - SpringBoot專案創建](https://morosedog.gitlab.io/j.j.blogs/2019/03/13/springboot-20190313-springboot1/ "第一章 - SpringBoot專案創建")
+-  [第二章 - SpringBoot測試案例](https://morosedog.gitlab.io/j.j.blogs/2019/03/13/springboot-20190313-springboot2/ "第二章 - SpringBoot測試案例")
+-  [第三章 - SpringBoot目錄結構](https://morosedog.gitlab.io/j.j.blogs/2019/03/14/springboot-20190314-springboot3/ "第三章 - SpringBoot目錄結構")
+-  持續新增中......
+
+### 相關資料
+- 個人部落格：[J.J. Blogs](https://morosedog.gitlab.io/j.j.blogs/ "J.J. Blogs")
