@@ -17,6 +17,8 @@
 -  [第三章 - SpringBoot目錄結構](https://morosedog.gitlab.io/j.j.blogs/2019/03/14/springboot-20190314-springboot3/ "第三章 - SpringBoot目錄結構")
 -  [第四章 - SpringBoot Web開發](https://morosedog.gitlab.io/j.j.blogs/2019/03/15/springboot-20190315-springboot4/ "第四章 - SpringBoot Web開發")
 -  [第五章 - SpringBoot常用註解](https://morosedog.gitlab.io/j.j.blogs/2019/03/15/springboot-20190315-springboot5/ "第五章 - SpringBoot常用註解")
+-  [第六章 - SpringBoot配置說明(一)](https://morosedog.gitlab.io/j.j.blogs/2019/03/16/springboot-20190316-springboot6/ "第六章 - SpringBoot配置說明(一)")
+-  [第七章 - SpringBoot配置說明(二)](https://morosedog.gitlab.io/j.j.blogs/2019/03/17/springboot-20190317-springboot7/ "第七章 - SpringBoot配置說明(二)")
 -  持續新增中......
 
 ### 相關資料
