@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>chapter-6</name>
-	<description>SpringBoot | 第六章：SpringBoot配置說明</description>
+	<description>SpringBoot | 第六章：SpringBoot配置說明(一)</description>
 
 	<properties>
 		<java.version>1.8</java.version>
