@@ -21,6 +21,7 @@
 -  [第七章 - SpringBoot配置說明(二)](https://morosedog.gitlab.io/j.j.blogs/2019/03/17/springboot-20190317-springboot7/ "第七章 - SpringBoot配置說明(二)")
 -  [第八章 - SpringBoot配置說明(三)](https://morosedog.gitlab.io/j.j.blogs/2019/03/18/springboot-20190318-springboot8/ "第八章 - SpringBoot配置說明(三)")
 -  [第九章 - SpringBoot Swagger2的集成和使用](https://morosedog.gitlab.io/j.j.blogs/2019/03/19/springboot-20190319-springboot9/ "第九章 - SpringBoot Swagger2的集成和使用")
+-  [第十章 - SpringBoot日誌管理](https://morosedog.gitlab.io/j.j.blogs/2019/03/20/springboot-20190320-springboot10/ "第十章 - SpringBoot日誌管理")
 -  持續新增中......
 
 ### 相關資料
