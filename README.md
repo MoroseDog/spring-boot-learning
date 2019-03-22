@@ -23,6 +23,7 @@
 -  [第九章 - SpringBoot Swagger2的集成和使用](https://morosedog.gitlab.io/j.j.blogs/2019/03/19/springboot-20190319-springboot9/ "第九章 - SpringBoot Swagger2的集成和使用")
 -  [第十章 - SpringBoot日誌管理](https://morosedog.gitlab.io/j.j.blogs/2019/03/20/springboot-20190320-springboot10/ "第十章 - SpringBoot日誌管理")
 -  [第十ㄧ章 - SpringBoot多環境配置](https://morosedog.gitlab.io/j.j.blogs/2019/03/21/springboot-20190321-springboot11/ "第十ㄧ章 - SpringBoot多環境配置")
+-  [第十二章 - SpringBoot Lombok簡單介紹使用](https://morosedog.gitlab.io/j.j.blogs/2019/03/22/springboot-20190322-springboot12/ "第十二章 - SpringBoot Lombok簡單介紹使用")
 -  持續新增中......
 
 ### 相關資料
