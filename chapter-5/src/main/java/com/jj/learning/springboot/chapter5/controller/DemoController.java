@@ -24,7 +24,12 @@ public class DemoController {
     }
     
     @RequestMapping(value = "/path", method = RequestMethod.GET)
-    public String requestParam(@RequestParam("id") String id){
+    public String requestParamGet(@RequestParam("id") String id){
+        return "ID:" + id;
+    }
+    
+    @RequestMapping(value = "/path", method = RequestMethod.POST)
+    public String requestParamPost(@RequestParam("id") String id){
         return "ID:" + id;
     }
 
