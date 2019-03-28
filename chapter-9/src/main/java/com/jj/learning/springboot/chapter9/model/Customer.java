@@ -1,4 +1,4 @@
-package com.jj.learning.springboot.chapter9.pojo;
+package com.jj.learning.springboot.chapter9.model;
 
 import io.swagger.annotations.ApiModelProperty;
 

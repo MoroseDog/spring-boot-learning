@@ -1,4 +1,4 @@
-package com.jj.learning.springboot.chapter5.pojo;
+package com.jj.learning.springboot.chapter5.model;
 
 public class Customer {
 

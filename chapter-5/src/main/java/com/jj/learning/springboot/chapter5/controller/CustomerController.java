@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.jj.learning.springboot.chapter5.pojo.Customer;
+import com.jj.learning.springboot.chapter5.model.Customer;
 
 @RestController
 // 這個配置表示下面的網址對應都在/customers下

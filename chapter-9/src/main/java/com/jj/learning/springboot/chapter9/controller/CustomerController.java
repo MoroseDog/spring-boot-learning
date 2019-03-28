@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.jj.learning.springboot.chapter9.pojo.Customer;
+import com.jj.learning.springboot.chapter9.model.Customer;
 
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;

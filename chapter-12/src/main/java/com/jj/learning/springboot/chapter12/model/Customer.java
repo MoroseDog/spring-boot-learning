@@ -1,4 +1,4 @@
-package com.jj.learning.springboot.chapter12.pojo;
+package com.jj.learning.springboot.chapter12.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
