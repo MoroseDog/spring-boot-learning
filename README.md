@@ -25,6 +25,7 @@
 -  [第十ㄧ章 - SpringBoot 多環境配置](https://morosedog.gitlab.io/j.j.blogs/2019/03/21/springboot-20190321-springboot11/ "第十ㄧ章 - SpringBoot 多環境配置")
 -  [第十二章 - SpringBoot Lombok簡單介紹使用](https://morosedog.gitlab.io/j.j.blogs/2019/03/22/springboot-20190322-springboot12/ "第十二章 - SpringBoot Lombok簡單介紹使用")
 -  [第十三章 - SpringBoot JdbcTemplate訪問資料庫](https://morosedog.gitlab.io/j.j.blogs/2019/03/27/springboot-20190327-springboot13/ "第十三章 - SpringBoot JdbcTemplate訪問資料庫")
+-  [第十四章 - SpringBoot Spring-data-jpa訪問資料庫](https://morosedog.gitlab.io/j.j.blogs/2019/03/28/springboot-20190328-springboot14/ "第十四章 - SpringBoot Spring-data-jpa訪問資料庫")
 -  持續新增中......
 
 ### 相關資料
