@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.jj.learning.springboot.chapter16.domain.CustomerMapper">
+
+	<resultMap id="BaseResultMap" type="com.jj.learning.springboot.chapter16.domain.Customer">
+		<id column="id" property="id" jdbcType="INTEGER" />
+		<result column="name" property="name" jdbcType="VARCHAR" />
+		<result column="age" property="age" jdbcType="INTEGER" />
+		<result column="createBy" property="create_by" jdbcType="VARCHAR" />
+		<result column="createDt" property="create_dt" jdbcType="TIMESTAMP" />
+		<result column="modifyBy" property="modify_by" jdbcType="VARCHAR" />
+		<result column="modifyDt" property="modify_dt" jdbcType="TIMESTAMP" />
+	</resultMap>
+
+	<select id="getAllCustomer" resultMap="BaseResultMap" resultType="com.jj.learning.springboot.chapter16.domain.Customer">
+		select * from customer;
+	</select>
+	
+	<select id="getCustomerByName" resultMap="BaseResultMap">
+		select * from customer where name=#{name};
+	</select>
+	
+	<insert id="addCustomer" parameterType="com.jj.learning.springboot.chapter16.domain.Customer">
+		insert into customer (name,age,create_by,create_dt) values (#{name},#{age},'SYSTEM',now());
+	</insert>
+	
+	<update id="updateCustomerById" parameterType="com.jj.learning.springboot.chapter16.domain.Customer">
+		update customer set name=#{name},age=#{age},modify_by=#{modifyBy},modify_dt=now() where id=#{id};
+	</update>
+	
+	<delete id="deleteAllCustomer">
+		delete from customer;
+	</delete>
+	
+	<delete id="deleteCustomerById">
+		delete from customer where id=#{id};
+	</delete>
+</mapper>

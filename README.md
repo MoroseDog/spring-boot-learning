@@ -27,6 +27,7 @@
 -  [第十三章 - SpringBoot JdbcTemplate訪問資料庫](https://morosedog.gitlab.io/j.j.blogs/2019/03/27/springboot-20190327-springboot13/ "第十三章 - SpringBoot JdbcTemplate訪問資料庫")
 -  [第十四章 - SpringBoot Spring-data-jpa訪問資料庫](https://morosedog.gitlab.io/j.j.blogs/2019/03/28/springboot-20190328-springboot14/ "第十四章 - SpringBoot Spring-data-jpa訪問資料庫")
 -  [第十五章 - SpringBoot MyBatis整合 (註解方式)](https://morosedog.gitlab.io/j.j.blogs/2019/03/29/springboot-20190329-springboot15/ "第十五章 - SpringBoot MyBatis整合 (註解方式)")
+-  [第十六章 - SpringBoot MyBatis整合 (XML方式)](https://morosedog.gitlab.io/j.j.blogs/2019/03/30/springboot-20190330-springboot16/ "第十六章 - SpringBoot MyBatis整合 (XML方式)")
 -  持續新增中......
 
 ### 相關資料
