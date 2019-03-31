@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE generatorConfiguration PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN" "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+<generatorConfiguration>
+	<!-- 自定義context的名稱，另如mysql、mssql做一些標示，方便自己區分使用 -->
+	<context id="context1">
+		<!-- 去除註解 -->
+		<commentGenerator>
+			<property name="suppressAllComments" value="true" />
+		</commentGenerator>
+		<!-- connectionURL資料庫位置、driverClass資料庫連線驅動位置、password資料庫登入密碼、userId資料庫登入帳號 -->
+		<jdbcConnection connectionURL="jdbc:mysql://localhost:3306/test" driverClass="com.mysql.jdbc.Driver" password="root" userId="root" />
+		<!-- 產生Entity的設定 -->
+		<javaModelGenerator targetPackage="com.jj.learning.springboot.chapter17.domain" targetProject="chapter-17/src/main/java" />
+		<!-- 產生Mapper.xml檔的設定 -->
+		<sqlMapGenerator targetPackage="mapper" targetProject="chapter-17/src/main/resources" />
+		<!-- 產生Dao的設定 -->
+		<javaClientGenerator targetPackage="com.jj.learning.springboot.chapter17.dao" targetProject="chapter-17/src/main/java" type="XMLMAPPER" />
+		<!-- 指定資料庫的表 -->
+		<table tableName="customer">
+		</table>
+	</context>
+</generatorConfiguration>
