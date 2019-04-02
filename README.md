@@ -30,6 +30,7 @@
 -  [第十六章 - SpringBoot MyBatis整合 (XML方式)](https://morosedog.gitlab.io/j.j.blogs/2019/03/30/springboot-20190330-springboot16/ "第十六章 - SpringBoot MyBatis整合 (XML方式)")
 -  [第十七章 - SpringBoot Mybatis Generator 工具](https://morosedog.gitlab.io/j.j.blogs/2019/03/31/springboot-20190331-springboot17/ "第十七章 - SpringBoot Mybatis Generator 工具")
 -  [第十八章 - SpringBoot 統一異常處理](https://morosedog.gitlab.io/j.j.blogs/2019/04/01/springboot-20190401-springboot18/ "第十八章 - SpringBoot 統一異常處理")
+-  [第十九章 - SpringBoot 數據驗證(一)](https://morosedog.gitlab.io/j.j.blogs/2019/04/02/springboot-20190402-springboot19/ "第十九章 - SpringBoot 數據驗證(一)")
 -  持續新增中......
 
 ### 相關資料
