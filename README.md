@@ -32,6 +32,7 @@
 -  [第十八章 - SpringBoot 統一異常處理](https://morosedog.gitlab.io/j.j.blogs/2019/04/01/springboot-20190401-springboot18/ "第十八章 - SpringBoot 統一異常處理")
 -  [第十九章 - SpringBoot 數據驗證(一)](https://morosedog.gitlab.io/j.j.blogs/2019/04/02/springboot-20190402-springboot19/ "第十九章 - SpringBoot 數據驗證(一)")
 -  [第二十章 - SpringBoot 數據驗證(二)](https://morosedog.gitlab.io/j.j.blogs/2019/04/03/springboot-20190403-springboot20/ "第二十章 - SpringBoot 數據驗證(二)")
+-  [第二十一章 - SpringBoot 數據驗證(三)](https://morosedog.gitlab.io/j.j.blogs/2019/04/04/springboot-20190404-springboot21/ "第二十一章 - SpringBoot 數據驗證(三)")
 -  持續新增中......
 
 ### 相關資料
