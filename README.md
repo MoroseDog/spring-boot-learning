@@ -33,6 +33,7 @@
 -  [第十九章 - SpringBoot 數據驗證(一)](https://morosedog.gitlab.io/j.j.blogs/2019/04/02/springboot-20190402-springboot19/ "第十九章 - SpringBoot 數據驗證(一)")
 -  [第二十章 - SpringBoot 數據驗證(二)](https://morosedog.gitlab.io/j.j.blogs/2019/04/03/springboot-20190403-springboot20/ "第二十章 - SpringBoot 數據驗證(二)")
 -  [第二十一章 - SpringBoot 數據驗證(三)](https://morosedog.gitlab.io/j.j.blogs/2019/04/04/springboot-20190404-springboot21/ "第二十一章 - SpringBoot 數據驗證(三)")
+-  [第二十二章 - SpringBoot Redis的集成和使用(一)](https://morosedog.gitlab.io/j.j.blogs/2019/04/05/springboot-20190405-springboot22/ "第二十二章 - SpringBoot Redis的集成和使用(一)")
 -  持續新增中......
 
 ### 相關資料
