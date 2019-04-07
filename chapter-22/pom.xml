@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>chapter-22</name>
-	<description>SpringBoot | 第二十二章：SpringBoot Redis的集成和使用</description>
+	<description>SpringBoot | 第二十二章：SpringBoot Redis的集成和使用(一)</description>
 
 	<properties>
 		<java.version>1.8</java.version>
