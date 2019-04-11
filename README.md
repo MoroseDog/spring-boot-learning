@@ -33,8 +33,11 @@
 -  [第十九章 - SpringBoot 數據驗證(一)](https://morosedog.gitlab.io/j.j.blogs/2019/04/02/springboot-20190402-springboot19/ "第十九章 - SpringBoot 數據驗證(一)")
 -  [第二十章 - SpringBoot 數據驗證(二)](https://morosedog.gitlab.io/j.j.blogs/2019/04/03/springboot-20190403-springboot20/ "第二十章 - SpringBoot 數據驗證(二)")
 -  [第二十一章 - SpringBoot 數據驗證(三)](https://morosedog.gitlab.io/j.j.blogs/2019/04/04/springboot-20190404-springboot21/ "第二十一章 - SpringBoot 數據驗證(三)")
--  [第二十二章 - SpringBoot Redis的集成和使用(一)](https://morosedog.gitlab.io/j.j.blogs/2019/04/05/springboot-20190405-springboot22/ "第二十二章 - SpringBoot Redis的集成和使用(一)")
--  [第二十三章 - SpringBoot Redis的集成和使用(二)](https://morosedog.gitlab.io/j.j.blogs/2019/04/06/springboot-20190406-springboot23/ "第二十三章 - SpringBoot Redis的集成和使用(二)")
+-  [第二十二章 - SpringBoot Redis的集成和使用(一)](https://morosedog.gitlab.io/j.j.blogs/2019/04/09/springboot-20190409-springboot22/ "第二十二章 - SpringBoot Redis的集成和使用(一)")
+-  [第二十三章 - SpringBoot Redis的集成和使用(二)](https://morosedog.gitlab.io/j.j.blogs/2019/04/10/springboot-20190410-springboot23/ "第二十三章 - SpringBoot Redis的集成和使用(二)")
+-  [第二十四章 - SpringBoot 緩存支持註解配置與EhCache使用(一)](https://morosedog.gitlab.io/j.j.blogs/2019/04/11/springboot-20190411-springboot24/ "第二十四章 - SpringBoot 緩存支持註解配置與EhCache使用(一)")
+<!-- -  [第二十五章 - SpringBoot 缓存支持與Redis集中式缓存(二)](https://morosedog.gitlab.io/j.j.blogs/2019/04/12/springboot-20190412-springboot25/ "第二十五章 - SpringBoot 缓存支持與Redis集中式缓存(二)") -->
+<!-- -  [第二十六章 - SpringBoot RabbitMQ的集成和使用](https://morosedog.gitlab.io/j.j.blogs/2019/04/14/springboot-20190414-springboot26/ "第二十六章 - SpringBoot RabbitMQ的集成和使用") -->
 -  持續新增中......
 
 ### 相關資料
