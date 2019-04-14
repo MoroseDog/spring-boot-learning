@@ -37,8 +37,9 @@
 -  [第二十三章 - SpringBoot Redis的集成和使用(二)](https://morosedog.gitlab.io/j.j.blogs/2019/04/10/springboot-20190410-springboot23/ "第二十三章 - SpringBoot Redis的集成和使用(二)")
 -  [第二十四章 - SpringBoot 緩存支持註解配置與EhCache使用(一)](https://morosedog.gitlab.io/j.j.blogs/2019/04/11/springboot-20190411-springboot24/ "第二十四章 - SpringBoot 緩存支持註解配置與EhCache使用(一)")
 -  [第二十五章 - SpringBoot 缓存支持與Redis集中式缓存(二)](https://morosedog.gitlab.io/j.j.blogs/2019/04/12/springboot-20190412-springboot25/ "第二十五章 - SpringBoot 缓存支持與Redis集中式缓存(二)")
-<!-- -  [第二十六章 - SpringBoot RabbitMQ的集成和使用](https://morosedog.gitlab.io/j.j.blogs/2019/04/14/springboot-20190414-springboot26/ "第二十六章 - SpringBoot RabbitMQ的集成和使用") -->
+-  [第二十六章 - SpringBoot RabbitMQ的集成和使用](https://morosedog.gitlab.io/j.j.blogs/2019/04/14/springboot-20190414-springboot26/ "第二十六章 - SpringBoot RabbitMQ的集成和使用")
 <!-- -  [第二十七章 - SpringBoot JavaMailSender發送信件](https://morosedog.gitlab.io/j.j.blogs/2019/04/15/springboot-20190415-springboot27/ "第二十七章 - SpringBoot JavaMailSender發送信件") -->
+<!-- -  [第二十八章 - SpringBoot WebSocket簡介及應用](https://morosedog.gitlab.io/j.j.blogs/2019/04/16/springboot-20190416-springboot28/ "第二十八章 - SpringBoot WebSocket簡介及應用") -->
 -  持續新增中......
 
 ### 相關資料
