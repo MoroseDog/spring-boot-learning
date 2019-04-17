@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://www.jj.com/webservice"
+           targetNamespace="http://www.jj.com/webservice" elementFormDefault="qualified">
+
+    <!-- 定義請求實體 -->
+    <xs:element name="authorRequest">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="name" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+         
+     <!-- 定義回應實體 -->
+    <xs:element name="authorResponse">
+               <xs:complexType>
+            <xs:sequence>
+                <xs:element name="author" type="tns:author"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <!-- 定義請求實體 -->
+    <xs:element name="authorListRequest">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="nonce" type="xs:string" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <!-- 定義回應實體 -->
+    <xs:element name="authorListResponse">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="author" type="tns:author" minOccurs="1" maxOccurs="unbounded" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+ 
+    <!-- 定義作者 訊息 -->
+    <xs:complexType name="author">
+        <xs:sequence>
+                <xs:element name="name" type="xs:string" />
+                <!-- 愛好列表形式nillable = true可為空，maxOccurs = unbouned無限 -->
+                <xs:element name="hobby" type="xs:string" nillable="true" maxOccurs="unbounded" />
+                <!-- 性别 枚舉類型 限定 -->
+                <xs:element name="sex" type="tns:sex" />
+                <!-- 生日 -->
+                <xs:element name="birthday" type="xs:string" />
+                <!-- 描述 -->
+                <xs:element name="description" type="xs:string" />
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- 枚舉類型 性别：男 女 -->
+    <xs:simpleType name="sex">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="male"/>
+            <xs:enumeration value="female"/>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>

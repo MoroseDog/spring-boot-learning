@@ -40,6 +40,9 @@
 -  [第二十六章 - SpringBoot RabbitMQ的集成和使用](https://morosedog.gitlab.io/j.j.blogs/2019/04/14/springboot-20190414-springboot26/ "第二十六章 - SpringBoot RabbitMQ的集成和使用")
 -  [第二十七章 - SpringBoot JavaMailSender發送信件](https://morosedog.gitlab.io/j.j.blogs/2019/04/15/springboot-20190415-springboot27/ "第二十七章 - SpringBoot JavaMailSender發送信件")
 -  [第二十八章 - SpringBoot WebSocket簡介及應用](https://morosedog.gitlab.io/j.j.blogs/2019/04/16/springboot-20190416-springboot28/ "第二十八章 - SpringBoot WebSocket簡介及應用")
+-  [第二十九章 - SpringBoot WebService簡介及應用 (Server)](https://morosedog.gitlab.io/j.j.blogs/2019/04/17/springboot-20190417-springboot29/ "第二十九章 - SpringBoot WebService簡介及應用 (Server)")
+<!-- -  [第三十章 - SpringBoot WebService簡介及應用 (Client)](https://morosedog.gitlab.io/j.j.blogs/2019/04/18/springboot-20190418-springboot30/ "第三十章 - SpringBoot WebService簡介及應用 (Client)") -->
+<!-- -  [第三十一章 - SpringBoot CXF 調用 WebService](https://morosedog.gitlab.io/j.j.blogs/2019/04/19/springboot-20190419-springboot31/ "第三十一章 - SpringBoot CXF 調用 WebService") -->
 -  持續新增中......
 
 ### 相關資料
