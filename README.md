@@ -43,6 +43,16 @@
 -  [第二十九章 - SpringBoot WebService簡介及應用 (Server)](https://morosedog.gitlab.io/j.j.blogs/2019/04/17/springboot-20190417-springboot29/ "第二十九章 - SpringBoot WebService簡介及應用 (Server)")
 -  [第三十章 - SpringBoot WebService簡介及應用 (Client)](https://morosedog.gitlab.io/j.j.blogs/2019/04/18/springboot-20190418-springboot30/ "第三十章 - SpringBoot WebService簡介及應用 (Client)")
 -  [第三十一章 - SpringBoot CXF 調用 WebService](https://morosedog.gitlab.io/j.j.blogs/2019/04/19/springboot-20190419-springboot31/ "第三十一章 - SpringBoot CXF 調用 WebService")
+-  [第三十二章 - SpringBoot @Scheduled 創建計劃任務](https://morosedog.gitlab.io/j.j.blogs/2019/04/20/springboot-20190420-springboot32/ "第三十二章 - SpringBoot @Scheduled 創建計劃任務")
+-  [第三十三章 - SpringBoot @Async 實現異步調用](https://morosedog.gitlab.io/j.j.blogs/2019/04/21/springboot-20190421-springboot33/ "第三十三章 - SpringBoot @Async 實現異步調用")
+<!-- -  [第三十四章 - SpringBoot ](https://morosedog.gitlab.io/j.j.blogs/2019/04/22/springboot-20190422-springboot34/ "第三十四章 - SpringBoot ") -->
+<!-- -  [第三十五章 - SpringBoot ](https://morosedog.gitlab.io/j.j.blogs/2019/04/23/springboot-20190423-springboot35/ "第三十五章 - SpringBoot ") -->
+<!-- -  [第三十六章 - SpringBoot ](https://morosedog.gitlab.io/j.j.blogs/2019/04/24/springboot-20190424-springboot36/ "第三十六章 - SpringBoot ") -->
+<!-- -  [第三十七章 - SpringBoot ](https://morosedog.gitlab.io/j.j.blogs/2019/04/25/springboot-20190425-springboot37/ "第三十七章 - SpringBoot ") -->
+<!-- -  [第三十八章 - SpringBoot ](https://morosedog.gitlab.io/j.j.blogs/2019/04/26/springboot-20190426-springboot38/ "第三十八章 - SpringBoot ") -->
+<!-- -  [第三十九章 - SpringBoot ](https://morosedog.gitlab.io/j.j.blogs/2019/04/27/springboot-20190427-springboot39/ "第三十九章 - SpringBoot ") -->
+<!-- -  [第四十章 - SpringBoot ](https://morosedog.gitlab.io/j.j.blogs/2019/04/28/springboot-20190428-springboot40/ "第四十章 - SpringBoot ") -->
+
 -  持續新增中......
 
 ### 相關資料
