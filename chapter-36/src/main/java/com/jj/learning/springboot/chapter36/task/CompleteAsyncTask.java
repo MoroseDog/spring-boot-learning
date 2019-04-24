@@ -18,7 +18,7 @@ public class CompleteAsyncTask {
     public CompletableFuture<String> doTaskOne() throws Exception {
         log.info("開始做異步任務一");
         long start = System.currentTimeMillis();
-        Thread.sleep(random.nextInt(4500));
+        Thread.sleep(random.nextInt(10000));
         long end = System.currentTimeMillis();
         log.info("完成異步任務一，耗時：" + (end - start) + "毫秒");
         return CompletableFuture.completedFuture("任務一完成");
