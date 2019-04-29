@@ -50,7 +50,7 @@
 -  [第三十六章 - SpringBoot @Async 實現異步調用：使用Future以及定義超時](https://morosedog.gitlab.io/j.j.blogs/2019/04/24/springboot-20190424-springboot36/ "第三十六章 - SpringBoot @Async 實現異步調用：使用Future以及定義超時")
 -  [第三十七章 - SpringBoot ActiveMQ的集成和使用](https://morosedog.gitlab.io/j.j.blogs/2019/04/26/springboot-20190426-springboot37/ "第三十七章 - SpringBoot ActiveMQ的集成和使用")
 -  [第三十八章 - SpringBoot 過濾器，監聽器，攔截器](https://morosedog.gitlab.io/j.j.blogs/2019/04/27/springboot-20190427-springboot38/ "第三十八章 - SpringBoot 過濾器，監聽器，攔截器")
-<!-- -  [第三十九章 - SpringBoot ](https://morosedog.gitlab.io/j.j.blogs/2019/04/27/springboot-20190427-springboot39/ "第三十九章 - SpringBoot ") -->
+-  [第三十九章 - SpringBoot Spring Security 安全控制](https://morosedog.gitlab.io/j.j.blogs/2019/04/28/springboot-20190428-springboot39/ "第三十九章 - SpringBoot Spring Security 安全控制")
 <!-- -  [第四十章 - SpringBoot ](https://morosedog.gitlab.io/j.j.blogs/2019/04/28/springboot-20190428-springboot40/ "第四十章 - SpringBoot ") -->
 
 -  持續新增中......
