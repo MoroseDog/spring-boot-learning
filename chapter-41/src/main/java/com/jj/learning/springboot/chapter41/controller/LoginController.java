@@ -41,14 +41,14 @@ public class LoginController {
     @RequestMapping("/login")
     public String login(HttpServletRequest request, Map<String, Object> map) throws Exception {
         System.out.println("HomeController.login()");
-        // 登錄失敗從request中獲取shiro處理的異常信息。
+        // 登入失敗從request中獲取shiro處理的異常信息。
         // shiroLoginFailure:就是shiro異常類的全類名.
         String exception = (String) request.getAttribute("shiroLoginFailure");
         String msg = "";
         // 根據異常判斷錯誤類型
         if (exception != null) {
             if (UnknownAccountException.class.getName().equals(exception)) {
-                msg = "賬號不存在";
+                msg = "帳號不存在";
             }
             else if (IncorrectCredentialsException.class.getName().equals(exception)) {
                 msg = "密碼不正確";
@@ -58,7 +58,7 @@ public class LoginController {
             }
         }
         map.put("msg", msg);
-        // 此方法不處理登錄成功,由shiro進行處理
+        // 此方法不處理登入成功,由shiro進行處理
         return "/login";
     }
 

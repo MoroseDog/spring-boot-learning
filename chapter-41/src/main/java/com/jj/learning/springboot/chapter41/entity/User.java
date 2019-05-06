@@ -24,8 +24,8 @@ public class User {
 
     // 多對多關係
     @ManyToMany(fetch = FetchType.EAGER)
-    // 急加載，加載一個實體時，定義急加載的屬性會立即從數據庫中加載
-    // FetchType.LAZY：懶加載，加載一個實體時，定義懶加載的屬性不會馬上從數據庫中加載
+    // 急加載，加載一個實體時，定義急加載的屬性會立即從資料庫中加載
+    // FetchType.LAZY：懶加載，加載一個實體時，定義懶加載的屬性不會馬上從資料庫中加載
     @JoinTable(name = "SysUserRole", joinColumns = {@JoinColumn(name = "userId")}, inverseJoinColumns = {@JoinColumn(name = "roleId")})
     private List<Role> roleList;// 一個用戶具有多個角色
 
