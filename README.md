@@ -52,6 +52,9 @@
 -  [第三十八章 - SpringBoot 過濾器，監聽器，攔截器](https://morosedog.gitlab.io/j.j.blogs/2019/04/27/springboot-20190427-springboot38/ "第三十八章 - SpringBoot 過濾器，監聽器，攔截器")
 -  [第三十九章 - SpringBoot Spring Security 安全控制](https://morosedog.gitlab.io/j.j.blogs/2019/04/28/springboot-20190428-springboot39/ "第三十九章 - SpringBoot Spring Security 安全控制")
 -  [第四十章 - SpringBoot banner 更改](https://morosedog.gitlab.io/j.j.blogs/2019/04/29/springboot-20190429-springboot40/ "第四十章 - SpringBoot banner 更改")
+-  [第四十一章 - SpringBoot Apache Shiro 安全控制
+](https://morosedog.gitlab.io/j.j.blogs/2019/04/30/springboot-20190430-springboot41/ "第四十一章 - SpringBoot Apache Shiro 安全控制
+")
 
 -  持續新增中......
 
