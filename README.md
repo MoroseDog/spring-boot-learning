@@ -55,6 +55,8 @@
 -  [第四十一章 - SpringBoot Apache Shiro 安全控制
 ](https://morosedog.gitlab.io/j.j.blogs/2019/04/30/springboot-20190430-springboot41/ "第四十一章 - SpringBoot Apache Shiro 安全控制
 ")
+-  [第四十二章 - SpringBoot Web開發之WebJars應用](https://morosedog.gitlab.io/j.j.blogs/2019/05/06/springboot-20190506-springboot42/ "第四十二章 - SpringBoot Web開發之WebJars應用")
+-  [第四十三章 - SpringBoot Web開發之WebJars原理](https://morosedog.gitlab.io/j.j.blogs/2019/05/07/springboot-20190507-springboot43/ "第四十三章 - SpringBoot Web開發之WebJars原理")
 
 -  持續新增中......
 
