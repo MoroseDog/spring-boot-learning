@@ -57,6 +57,7 @@
 ")
 -  [第四十二章 - SpringBoot Web開發之WebJars應用](https://morosedog.gitlab.io/j.j.blogs/2019/05/06/springboot-20190506-springboot42/ "第四十二章 - SpringBoot Web開發之WebJars應用")
 -  [第四十三章 - SpringBoot Web開發之WebJars原理](https://morosedog.gitlab.io/j.j.blogs/2019/05/07/springboot-20190507-springboot43/ "第四十三章 - SpringBoot Web開發之WebJars原理")
+-  [第四十四章 - SpringBoot MongoDB的集成和使用](https://morosedog.gitlab.io/j.j.blogs/2019/05/09/springboot-20190509-springboot44/ "第四十四章 - SpringBoot MongoDB的集成和使用")
 
 -  持續新增中......
 
